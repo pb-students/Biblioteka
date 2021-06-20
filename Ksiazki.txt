@@ -1,0 +1,9 @@
+434321 Adam Mickiewicz Dziady_3 Dramat 2002 Litera 78342 dostepna
+434371 Adam Mickiewicz Dziady_2 Dramat 2003 Litera 78346 dostepna
+345289 Henryk Sienkiewicz Krzyzacy Powiesc 2011 Przecinek 45829 dostepna
+524354 Juliusz Slowacki Kordian Dramat 2004 Kropka 42829 dostepna
+779846 Boleslaw Prus Lalka Powiesc 2009 Srednik 54367 niedostepna
+434789 Adam Mickiewicz Dziady_4 Dramat 2000 Litera 78342 dostepna
+345289 Henryk Sienkiewicz Quavadis Powiesc 2001 Przecinek 45889 dostepna
+779846 Stanislaw Lem Solaris Powiesc 2009 Srednik 54267 niedostepna
+524564 Stanislaw Wyspianski Wesele Dramat 2000 Kropka 42827 dostepna
